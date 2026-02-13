@@ -40,6 +40,13 @@
         "key": "MOON",
         "expirydate": "15-06-9999",
         "Allowoffline": false
+    },
+    
+            {
+        "device_id": "525373807c689488",
+        "key": "MMD",
+        "expirydate": "15-06-9999",
+        "Allowoffline": false
     }
     
 ]
