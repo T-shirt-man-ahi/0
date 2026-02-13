@@ -22,5 +22,11 @@
         "key": "USERtest",
         "expirydate": "25-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f571dc7922af942f",
+        "key": "KIRI",
+        "expirydate": "15-06-9999",
+        "Allowoffline": false
     }
 ]
